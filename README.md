@@ -8,3 +8,5 @@ SpringBoot 入门 Demo  之 : SpringBoot 整合 MyBatis ( 完全注解版 )
 开发环境 : win8 + JAVA7 + Tomcat7.0 + MySql5.0 + Eclipse + Maven
 
 数据库: springboot_test
+
+学习者：tiger
